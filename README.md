@@ -5,4 +5,4 @@ L'objectif ultime est de développer un modèle d'apprentissage automatique capa
 ## Book Inspiration
 https://link.springer.com/book/10.1007/978-3-319-66308-1
 ## Project Workflow
-![Alt text](C:/Users/hp/OneDrive/Bureau/Gym_AI_Tracker/Workflow_ML.jpg)
+![Workflow_ML](https://github.com/ZAHIRA201/GYM_AI_Tracker/assets/120922044/f76e3e44-b76b-495c-80d7-f4dc1a77d5a3)

@@ -17,12 +17,12 @@ https://link.springer.com/book/10.1007/978-3-319-66308-1
 ### rearranging the raw data: 
 /src/data/make_dataset.ipynb
 ### Data Visualisation: 
-\src\visualization\visualize.ipynb
+/src/visualization/visualize.ipynb
 ### Outliers Detection: 
-\src\features\remove_outliers.ipynb
+/src/features/remove_outliers.ipynb
 ### Feature Engineering(LowPassFilter&Fourier Transformation&ACP&Clustering): 
-\src\features\build_features.ipynb
+/src/features/build_features.ipynb
 ### Trainig modeles: 
-\src\models\train_model.ipynb
+/src/models/train_model.ipynb
 ### Counting Repetions: 
-\src\models\count_repetitions.ipynb
+/src/models/count_repetitions.ipynb

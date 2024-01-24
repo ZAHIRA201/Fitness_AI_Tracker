@@ -1,4 +1,4 @@
-# Hi GYM Buddies and all the network out there!!
+# Hi GYM Buddies and all the network out there!!  🏋️‍♂️🧠
 ## Driven Reasons of WHY ?
 Under the driving factors for this project, As a Gym & Fitness passionate, I was compelled by the lack of attention to strength training programs in current literature and the inadequate support from existing activity trackers. Particularly striking was the prevalent emphasis on tracking blood, heart, or respiratory activities, highlighting a gap that our project aims to address.
 So, This project aims to create Python scripts to process, visualize, and model sensory data from accelerometers and gyroscopes.
